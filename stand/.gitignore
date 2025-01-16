@@ -1,2 +1,5 @@
 .env
 /venv
+/rabbitmq
+.py
+/__pycache__
