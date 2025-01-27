@@ -1,2 +1,2 @@
 # rabbit_mq_test
-rot ebal
+мой проект по RabbitMQ
